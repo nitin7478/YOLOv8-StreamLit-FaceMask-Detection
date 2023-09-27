@@ -56,8 +56,9 @@ Run the Streamlit app locally.<br>
 ### Model Training Information 
 
 Model is trained on custom dataset from [roboflow.com](https://roboflow.com)<br>
-We have trained YOLOv8n model(by [ultalytics](https://github.com/ultralytics/ultralytics)) on custom dataset from roboflow.com
-Metrics of the trained model are as follows:
+We have trained YOLOv8n model(by [ultalytics](https://github.com/ultralytics/ultralytics)) on custom dataset from roboflow.com <br>
+Metrics of the trained model are as follows:<br>
+![metrics](https://github.com/nitin7478/YOLOv8-StreamLit-FaceMask-Detection/assets/110007283/a64fc034-ae50-4fc7-9a10-2f8cd5a60141)
 
 
 ## Licence
