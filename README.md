@@ -55,9 +55,10 @@ Run the Streamlit app locally.<br>
 
 ### Model Training Information 
 
-Model is trained on dataset from [roboflow.com](https://roboflow.com)<br>
-We have trained YOLOv8n model(by ultalytics) on custom dataset from roboflow.com
+Model is trained on custom dataset from [roboflow.com](https://roboflow.com)<br>
+We have trained YOLOv8n model(by [ultalytics](https://github.com/ultralytics/ultralytics)) on custom dataset from roboflow.com
 Metrics of the trained model are as follows:
+
 
 ## Licence
 [LICENCE]()
