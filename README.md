@@ -62,4 +62,4 @@ Metrics of the trained model are as follows:<br>
 
 
 ## Licence
-[LICENCE]()
+[LICENCE](https://github.com/nitin7478/YOLOv8-StreamLit-FaceMask-Detection/blob/5b2ccbcc75c7bd4b5cb2a9a5a00362bcf9f34a3f/LICENSE)
