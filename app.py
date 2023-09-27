@@ -1,5 +1,5 @@
 import streamlit as st
-import cv2 , tempfile, sys, base64
+import cv2 , tempfile
 import numpy as np
 from PIL import Image
 from src.components.image_detector import load_yolonas_process_each_image
