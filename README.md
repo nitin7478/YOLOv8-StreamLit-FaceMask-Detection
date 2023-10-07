@@ -1,9 +1,7 @@
 # YOLO NAS - StreamLit Object Detection Web App
 
 ## App Link
-[Run Application]()
-## Demo:
-[Demo Video]()
+[Run Application](https://facemaskdetector.streamlit.app/)
 
 
 ## Description:
