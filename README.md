@@ -65,6 +65,7 @@ Metrics of the trained model are as follows:<br>
 
 
 ### Project Structure 
+```
 .
 ├── src/
 │ ├── components/
@@ -88,7 +89,7 @@ Metrics of the trained model are as follows:<br>
 ├── .gitignore
 ├── YOLOv8_Tutorial.ipynb
 ├──model_trainer.ipynb
-
+```
 
 ## Licence
 [LICENCE](https://github.com/nitin7478/YOLOv8-StreamLit-FaceMask-Detection/blob/5b2ccbcc75c7bd4b5cb2a9a5a00362bcf9f34a3f/LICENSE)
