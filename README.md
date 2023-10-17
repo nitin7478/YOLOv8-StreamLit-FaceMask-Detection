@@ -7,6 +7,12 @@
 ## Description:
 This web application uses the YOLOv8 object detection model to identify faces and classify them as "With Mask" or "No Mask" or "Improper Mask". It's built with Streamlit for an interactive and user-friendly experience. The app supports both images and videos in various formats.
 
+### Components:
+* Language : [Python3.10](https://www.python.org/)
+* Model : [Yolov8](https://github.com/ultralytics/ultralytics)
+* Webapp Framework : [Streamlit](https://streamlit.io/)
+* Dataset and Preprocessing : [Roboflow.com](https://roboflow.com/)
+
 ### Key Features:
 * Real-time face detection and mask classification
 * User-friendly interface for easy uploads
