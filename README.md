@@ -1,7 +1,7 @@
 # YOLOv8 - StreamLit Object Detection Web App
 
 ## App Link
-[Run Application Streamlit Deployment Link](https://facemaskdetector.streamlit.app/)
+[Run Application Streamlit Deployment Link](https://facemaskdetector.streamlit.app/)<br>
 [Run Application AWS Deployment Link](http://ec2-34-207-80-183.compute-1.amazonaws.com:8501/)
 
 ## Description:
