@@ -9,6 +9,9 @@ venv.bak/
 ./runs
 runs
 
+.git/
+git/
+
 __pycache__/
 *.py[cod]
 *$py.class
