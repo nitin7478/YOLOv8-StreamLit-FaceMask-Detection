@@ -7,7 +7,6 @@ This web application uses the YOLOv8 object detection model to identify faces an
 
 ### App Link
 [Run Application Streamlit Deployment Link](https://facemaskdetector.streamlit.app/)<br>
-[Run Application AWS Deployment Link](http://ec2-34-207-80-183.compute-1.amazonaws.com:8501/)
 
 ### Components:
 * Language : [Python3.10](https://www.python.org/)
